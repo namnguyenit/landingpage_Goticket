@@ -1,0 +1,30 @@
+# Dependencies (thu muc thu vien)
+node_modules/
+
+# Next.js build output
+.next/
+out/
+
+# Production or misc build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TypeScript cache
+*.tsbuildinfo
